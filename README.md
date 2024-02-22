@@ -1,4 +1,12 @@
-### Hi there 👋
+[![linkedin](https://img.shields.io/static/v1?label=&message=linkedin&color=0e76a8&logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/pablo-schneegluth-lópez-523004298/)
+[![github](https://img.shields.io/static/v1?label=&message=github&color=171515&logo=github&logoColor=white&style=for-the-badge)](https://github.com/pabloschneegluth)
+
+## About me 👋
+
+I am a Computer Engineer specialized in Information Management and Systems also a Full Stack Developer.
+
+Currently working at Pilz, in the Competence Center department.
+
 
 <!--
 **pabloschneegluth/pabloschneegluth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
