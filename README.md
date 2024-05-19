@@ -3,10 +3,14 @@
 
 ## About me 👋
 
-I am a Computer Engineer specialized in Information Management and Systems also a Full Stack Developer.
+I am a Computer Engineer specialized in Information Management and Systems, with a strong passion for 🔒 Cybersecurity and ✨ Artificial Intelligence.
 
-Currently working at Pilz, in the Competence Center department.
+### What I'm Up To
+Currently, I'm working at Pilz in the Competence Center department, where I get to explore and implement cutting-edge solutions.
 
+###
+
+I'm always excited to learn about new advancements and look forward to connecting with others in the tech community. Feel free to reach out!
 
 <!--
 **pabloschneegluth/pabloschneegluth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
