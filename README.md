@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:1e90ff,100:00bfff&text=Hi,%20I'm%20Pablo&fontColor=ffffff&fontSize=60&desc=Cybersecurity%20•%20Artificial%20Intelligence&descAlign=50&descAlignY=62&fontAlign=50&fontAlignY=40" width="100%" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:1e90ff,100:00bfff&text=Hi,%20I'm%20Pablo&fontColor=ffffff&fontSize=45&desc=Cybersecurity%20•%20Artificial%20Intelligence&descSize=16&descAlign=50&descAlignY=58&fontAlign=50&fontAlignY=32" width="100%" alt="header"/>
 </p>
 
 <div align="center">
@@ -60,4 +60,4 @@ with a strong passion for 🔒 <b>Cybersecurity</b> and ✨ <b>Artificial Intell
 
 <h3 align="center">🛠️ Building useful things.</h3>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e90ff,100:00bfff&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e90ff,100:00bfff&height=90&section=footer"/>
